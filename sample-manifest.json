@@ -1,0 +1,12 @@
+{
+  "export_job_id": "d9c00bb1-84c1-4f49-8ed4-a4af668d3a76",
+  "id_short": 212971,
+  "published_at": "2026-04-12T19:50:29Z",
+  "repo_name": "top-30-active-restaurant-whales-in-kansas-city-us-sample-212971",
+  "sample_asset_name": "beamstation_212971_restaurants-us-mo_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/212971/beamstation_212971_restaurants-us-mo_SAMPLE_DIST.csv",
+  "sample_records": 40,
+  "sample_sha256": "728205bfed3be93d7f5b68937f80994d1b3465d18efa90e480b5aacbf081014c",
+  "sample_size_bytes": 182692,
+  "total_records": 400
+}
